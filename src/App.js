@@ -1,6 +1,6 @@
-import Expenses from "./Expenses";
+import Expenses from "./components/Expenses";
 import "./components/Expenses.css";
-import expenses from "./components/expensesData";
+import expenses from "./expensesData";
 
 function App() {
   return (
